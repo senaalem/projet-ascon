@@ -1,0 +1,5 @@
+.DS_Store
+._*
+LIB/LIB_BENCH/_*
+LIB/LIB_RTL/_*
+modelsim.ini
